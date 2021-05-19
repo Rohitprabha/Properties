@@ -1,0 +1,4 @@
+C:\Users\Rohit Dasari\source\repos\Readonly Property\obj\Debug\netcoreapp3.1\Readonly Property.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Readonly Property\obj\Debug\netcoreapp3.1\Readonly Property.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Readonly Property\obj\Debug\netcoreapp3.1\Readonly Property.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Readonly Property\obj\Debug\netcoreapp3.1\Readonly Property.csproj.CoreCompileInputs.cache
